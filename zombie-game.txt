@@ -1,0 +1,81 @@
+- Characters (PC and NPC)
+ - Story - 
+Goals - 
+Rules - 
+Balance -
+ Adaptivity -
+ Chance vs Skill
+ - Feedback
+
+                     *name
+
+CHARACTERS 
+
+1 .pc = the players 
+2. npc = zombies,boss
+
+STORY
+
+There is a zombie apocalypse and 2 friends
+go on some land to save other people from zombies.
+
+GOALS
+ 1. survive all the waves of zombies (4-5)
+ 2. finish the zombie boss.
+ 3. evacuate the people.
+
+RULES 
+1. both have 2 lives
+2. if one PC finishes all the lives the game is over..
+3. Danda- the power up, it is used to easily slayy all the zombies..
+4.the zombies attack you.
+5.if zombie attacks you, you loose your one life..
+6. after u kill the zombie boss, people are evacuated and the game is over..
+
+      BALANCE
+
+1. every time u kill last zombie of the wave..u get a new weapon.
+2. after the last wave both the players get 1 live.
+
+
+ADAPTIVITY
+
+1. every wave gets harder and harder.
+2. the boss after the last wave has much hitpoints and is hard to defeat.
+
+Chance vs Skill
+
+1.the pcs have 3 chances each to dodge the zombies.
+2. PC skill= 
+	fiery bullets- the PC gets to use this skill once in the whole game 
+			it can kill zombie with one bullet
+			it is activated for 5-10 seconds.
+
+Feedback
+Sounds
+1. gun shot
+2.shot hit.
+3. zombie dying.
+4.after taking powerup
+
+time survival
+
+after touching the clock
+you will get 3 seconds more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
